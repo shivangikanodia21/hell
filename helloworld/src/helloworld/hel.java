@@ -6,6 +6,7 @@ public class hel {
 		// TODO Auto-generated method stub
    System.out.println("hell");
    System.out.println("hell");
+   System.out.println("hell");
 	}
 
 }
